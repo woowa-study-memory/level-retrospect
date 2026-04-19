@@ -2,10 +2,10 @@
 
 ## 🔗 레벨별 스터디 문서 링크
 
-- [Level 1 돌아보기](./level1/level-1.md)
-- [Level 2 돌아보기](./level2/level-2.md)
-- [Level 3 돌아보기](./level3/level-3.md)
-- [Level 4 돌아보기](./level4/level-4.md)
+- [Level 1 돌아보기](./level1/LEVEL-1.md)
+- [Level 2 돌아보기](./level2/LEVEL-2.md)
+- [Level 3 돌아보기](./level3/LEVEL-3.md)
+- [Level 4 돌아보기](./level4/LEVEL-4.md)
 
 
 ## 📌 스터디 기본 룰
