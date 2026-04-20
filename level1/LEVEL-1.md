@@ -88,7 +88,7 @@
 
 #### Optional
 - Optional이 null보다 좋은 점은 무엇인가?
-- Optional이 null-safty를 보장해주는가?
+- Optional이 null-safety를 보장해주는가?
 - null Object와 비교하면 무엇이 좋은가?
 
 #### Stream
@@ -104,5 +104,6 @@
 #### 영속화
 - DAO와 Repository의 차이점은 무엇인가?
 - 커넥션을 매번 만들면 안되는 이유는 무엇인가?
+- 일반 객체와 엔티티 객체의 차이점은 무엇인가?
 
 #### 디자인 패턴
