@@ -88,7 +88,6 @@
 #### Optional
 - Optional이 null보다 좋은 점은 무엇인가?
 - Optional이 null-safety를 보장해주는가?
-- Optional가 null Object pattern과 다른 점은 무엇인가?
 
 #### Stream
 - 스트림 등장 배경은 무엇인가?
@@ -106,3 +105,6 @@
 - 일반 객체와 엔티티 객체의 차이점은 무엇인가?
 
 #### 디자인 패턴
+- Null Object Pattern
+- State Pattern
+- Strategy Pattern
