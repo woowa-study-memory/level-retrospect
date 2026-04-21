@@ -108,3 +108,5 @@
 - Null Object Pattern
 - State Pattern
 - Strategy Pattern
+- Static Factory Method Pattern
+- Model Veiw Controller Pattern
