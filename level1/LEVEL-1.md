@@ -88,7 +88,7 @@
 #### Optional
 - Optional이 null보다 좋은 점은 무엇인가?
 - Optional이 null-safety를 보장해주는가?
-- null Object와 비교하면 무엇이 좋은가?
+- Optional가 null Object pattern과 다른 점은 무엇인가?
 
 #### Stream
 - 스트림 등장 배경은 무엇인가?
