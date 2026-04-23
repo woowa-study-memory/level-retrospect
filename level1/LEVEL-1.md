@@ -102,8 +102,8 @@
 - Static Factory Method Pattern
 - Model Veiw Controller Pattern
 
-#### 결합도
+#### 결합도와 결합도
 - 결합도란 무엇인가?
-
-#### 응집도
 - 응집도란 무엇인가?
+- 왜 응집도는 높을수록 좋고, 결합도는 낮을수록 좋은가?
+- 응집도와 결합도는 서로 어떤 관계를 가지는가?
