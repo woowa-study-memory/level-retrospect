@@ -114,7 +114,7 @@
 - Static Factory Method Pattern
 - Model Veiw Controller Pattern
 
-#### 결합도와 결합도
+#### 결합도와 응집도
 - 결합도란 무엇인가?
 - 응집도란 무엇인가?
 - 응집도와 결합도는 서로 어떤 관계를 가지는가?
