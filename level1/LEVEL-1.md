@@ -111,7 +111,7 @@
 - State Pattern
 - Strategy Pattern
 - Static Factory Method Pattern
-- Model Veiw Controller Pattern
+- Model View Controller Pattern
 
 #### 결합도와 응집도
 - 결합도란 무엇인가?
