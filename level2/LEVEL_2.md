@@ -24,51 +24,81 @@
 ## 📚 카테고리별 Q&A
 
 ## 공통
+
 - 프레임워크와 라이브러리의 차이가 무엇인가요
-- Log Level 
+- Log Level
 - 동시성과 정합성
-- JDK 21과 스프링 3버전 사용 이유
+- JDK21과 Spring Boot 3를 사용하는 이유
+
 ## MVC
-- Front Controller 패턴(요청 흐름, 이전 구현 구조)
-- 레이어드 아키텍처
-- HandlerMapping, HandlerAdapter
-- 매핑 테이블
+
+- Front Controller 패턴이 무엇인가요?
+- Front Controller 이전에는 어떻게 구현했나요?
+- Layered Architecture를 사용하는 이유는?
+- HandlerMapping은 무엇인가요?
+- HandlerAdapter는 무엇인가요?
+- HandlerMapping과 HandlerAdapter를 분리한 이유는?
+- Spring의 매핑 테이블은 무엇인가요?
+
 ## Spring
-- Ioc란? 
-- DI란?
-- 스프링 빈, 컨테이너(Bean, ApplicationContext, BeanFactory)
-- 컴포넌트 스캔
-- 싱글톤 패턴과 빈
+
+- IoC란 무엇인가요?
+- DI란 무엇인가요?
+- Bean이 무엇인가요?
+- BeanFactory와 ApplicationContext의 차이는?
+- Spring Container란?
+- Component Scan은 어떻게 동작하나요?
+- Singleton Pattern과 Spring Bean의 관계는?
+
 ## Test
-- 단위, 통합, 인수
-- 데이터 격리
-- Mock, Fake
-- Test Double
-- 자신의 생각
+
+- 단위 테스트와 통합 테스트의 차이는?
+- 인수 테스트는 무엇인가요?
+- 테스트 데이터는 어떻게 격리했나요?
+- Mock과 Fake의 차이는?
+- Test Double 종류를 설명해주세요.
+- 좋은 테스트란 무엇이라고 생각하나요?
+
 ## Data
-- 트랜잭션(격리 수준, 전파속성)
-- 물리적 트랜잭션, 논리적 트랜잭션
-- JPA의 영속성 컨텍스트. N + 1
-- ORM의 플러쉬 최적화 전략
-- 플러쉬와 커밋
-- 리드 온리와 플러쉬
-- 히카리CP
+
+- Transaction이란?
+- Transaction의 격리 수준을 설명해주세요.
+- Transaction 전파 속성이란?
+- 물리적 트랜잭션과 논리적 트랜잭션의 차이는?
+- 영속성 컨텍스트란?
+- N+1 문제가 발생하는 이유는?
+- Flush는 언제 발생하나요?
+- Flush와 Commit의 차이는?
+- Flush 최적화 전략은?
+- ReadOnly Transaction에서 Flush는 어떻게 되나요?
+- HikariCP란?
+
 ## AOP
-- 관점 지향 패러다임
-- 프록시
-- 관점 지향과 필터, 인터럽트의 차이점
+
+- AOP란 무엇인가요?
+- Proxy란 무엇인가요?
+- JDK Dynamic Proxy와 CGLIB 차이는?
+- Filter, Interceptor, AOP의 차이는?
+
 ## Tomcat
-- 서블릿 컨테이너가 필요한 이유
-- 스레드 풀
-- HTTP 메소드 
-## DataBase
-- 데드락 방지 전략
-- 유니크, 낙관 락, 비관 락
-- 유니크 인덱스의 DB 영향도
-- 데이터베이스 락 원리
-- B+Tree
-- 클러스터링 인덱스
-- 세컨더리 인덱스
-- 커버링 인덱스 
-- MVCC
-- 인덱스와 옵티마이저 그리고 디스크 탐색
+
+- Servlet Container가 필요한 이유는?
+- Thread Pool을 사용하는 이유는?
+- HTTP Method들의 특징은?
+- GET과 POST의 차이는?
+
+## Database
+
+- Deadlock이 발생하는 이유는?
+- Deadlock을 어떻게 방지할 수 있나요?
+- Unique 제약을 사용하는 이유는?
+- Optimistic Lock과 Pessimistic Lock 차이는?
+- Unique Index는 DB에 어떤 영향을 미치나요?
+- Database Lock은 어떻게 관리되나요?
+- B+Tree가 인덱스로 사용되는 이유는?
+- Clustered Index란?
+- Secondary Index란?
+- Covering Index란?
+- MVCC란?
+- 옵티마이저는 인덱스를 어떻게 선택하나요?
+- 디스크 탐색 비용과 인덱스의 관계는?
