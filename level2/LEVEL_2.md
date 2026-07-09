@@ -39,6 +39,7 @@
 - HandlerAdapter는 무엇인가요?
 - HandlerMapping과 HandlerAdapter를 분리한 이유는?
 - Spring의 매핑 테이블은 무엇인가요?
+- 레이어드 패턴을 사용하는 이유는?
 
 ## Spring
 
